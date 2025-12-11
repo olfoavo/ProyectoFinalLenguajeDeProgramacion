@@ -1,0 +1,16 @@
+# Maven / Java
+target/
+*.log
+*.class
+hs_err_pid*
+replay_pid*
+# IDEs
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+# macOS
+.DS_Store
+# VS Code
+.vscode/
